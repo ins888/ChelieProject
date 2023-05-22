@@ -1193,3 +1193,45 @@ Are you sure?
 [2023.05.22-08.04.25:299][771]LogSavePackage: Moving 'D:/Git/ChelieProject/Saved/First_FloorEB707ABC49DB2EEB8D0FAE92970D3106.tmp' to 'D:/Git/ChelieProject/Content/Use/Maps/First_Floor.umap'
 [2023.05.22-08.04.25:325][771]AssetCheck: New page: Asset Save: First_Floor
 [2023.05.22-08.04.25:325][771]LogContentValidation: Display: Validating World /Game/Use/Maps/First_Floor.First_Floor
+[2023.05.22-08.14.25:334][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.22-08.14.25:336][704]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Use/Maps/First_Floor' took 0.007
+[2023.05.22-08.24.25:849][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.05.22-08.24.25:850][499]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Use/Maps/First_Floor' took 0.006
+[2023.05.22-08.34.26:438][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.22-08.34.26:439][292]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Use/Maps/First_Floor' took 0.006
+[2023.05.22-08.44.26:928][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.22-08.44.26:929][ 87]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Use/Maps/First_Floor' took 0.006
+[2023.05.22-08.54.27:371][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.22-08.54.27:372][882]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Use/Maps/First_Floor' took 0.007
+[2023.05.22-09.04.27:943][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.22-09.04.27:944][678]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Use/Maps/First_Floor' took 0.006
+[2023.05.22-09.14.28:616][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.22-09.14.28:618][474]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Use/Maps/First_Floor' took 0.006
+[2023.05.22-09.24.29:177][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.22-09.24.29:178][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Use/Maps/First_Floor' took 0.006
+[2023.05.22-09.29.45:151][572]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Use/Sequence/MasterSeq6/MasterSeq6Master.MasterSeq6Master
+[2023.05.22-09.29.45:696][572]LogSlate: Window 'Master Sequence Settings' being destroyed
+[2023.05.22-09.34.29:814][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.22-09.34.29:818][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Use/Maps/First_Floor" FILE="D:/Git/ChelieProject/Saved/Autosaves/Game/Use/Maps/First_Floor_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.05.22-09.34.29:927][641]LogSavePackage: Moving 'D:/Git/ChelieProject/Saved/First_Floor_Auto2BE1B3E204C957490CC54E2B54B02E9AF.tmp' to 'D:/Git/ChelieProject/Saved/Autosaves/Game/Use/Maps/First_Floor_Auto2.umap'
+[2023.05.22-09.34.29:930][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Use/Maps/First_Floor' took 0.125
+[2023.05.22-09.34.29:930][641]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.125
+[2023.05.22-09.34.29:931][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Use/Sequence/MasterSeq6/MasterSeq6Master] ([1] browsable assets)...
+[2023.05.22-09.34.29:931][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Use/Sequence/MasterSeq6/MasterSeq6Master]
+[2023.05.22-09.34.29:934][641]LogSavePackage: Moving 'D:/Git/ChelieProject/Saved/MasterSeq6Master_Auto24E724B854D77DACC99E1F898F21BFED0.tmp' to 'D:/Git/ChelieProject/Saved/Autosaves/Game/Use/Sequence/MasterSeq6/MasterSeq6Master_Auto2.uasset'
+[2023.05.22-09.34.29:934][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Use/Sequence/MasterSeq6/shots/shot0010/shot0010_01] ([1] browsable assets)...
+[2023.05.22-09.34.29:934][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Use/Sequence/MasterSeq6/shots/shot0010/shot0010_01]
+[2023.05.22-09.34.29:950][641]LogSavePackage: Moving 'D:/Git/ChelieProject/Saved/shot0010_01_Auto25B9198BB480B24B491BF56B081F47635.tmp' to 'D:/Git/ChelieProject/Saved/Autosaves/Game/Use/Sequence/MasterSeq6/shots/shot0010/shot0010_01_Auto2.uasset'
+[2023.05.22-09.34.29:951][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Use/Sequence/MasterSeq6/shots/shot0020/shot0020_01] ([1] browsable assets)...
+[2023.05.22-09.34.29:951][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Use/Sequence/MasterSeq6/shots/shot0020/shot0020_01]
+[2023.05.22-09.34.29:955][641]LogSavePackage: Moving 'D:/Git/ChelieProject/Saved/shot0020_01_Auto24FA2BC704D6CA49280FFD28647CC5988.tmp' to 'D:/Git/ChelieProject/Saved/Autosaves/Game/Use/Sequence/MasterSeq6/shots/shot0020/shot0020_01_Auto2.uasset'
+[2023.05.22-09.34.29:955][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Use/Sequence/MasterSeq6/shots/shot0030/shot0030_01] ([1] browsable assets)...
+[2023.05.22-09.34.29:955][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Use/Sequence/MasterSeq6/shots/shot0030/shot0030_01]
+[2023.05.22-09.34.29:959][641]LogSavePackage: Moving 'D:/Git/ChelieProject/Saved/shot0030_01_Auto25D369F674B0C9D3E6B426EB06B6A6456.tmp' to 'D:/Git/ChelieProject/Saved/Autosaves/Game/Use/Sequence/MasterSeq6/shots/shot0030/shot0030_01_Auto2.uasset'
+[2023.05.22-09.34.29:959][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Use/Sequence/MasterSeq6/shots/shot0040/shot0040_01] ([1] browsable assets)...
+[2023.05.22-09.34.29:959][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Use/Sequence/MasterSeq6/shots/shot0040/shot0040_01]
+[2023.05.22-09.34.29:963][641]LogSavePackage: Moving 'D:/Git/ChelieProject/Saved/shot0040_01_Auto270F8E6924F9F903EE57FCF971A5EE444.tmp' to 'D:/Git/ChelieProject/Saved/Autosaves/Game/Use/Sequence/MasterSeq6/shots/shot0040/shot0040_01_Auto2.uasset'
+[2023.05.22-09.34.29:964][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Use/Sequence/MasterSeq6/shots/shot0050/shot0050_01] ([1] browsable assets)...
+[2023.05.22-09.34.29:964][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Use/Sequence/MasterSeq6/shots/shot0050/shot0050_01]
+[2023.05.22-09.34.29:966][641]LogSavePackage: Moving 'D:/Git/ChelieProject/Saved/shot0050_01_Auto2BD003CC2436E58D7BC52C289C336D0F7.tmp' to 'D:/Git/ChelieProject/Saved/Autosaves/Game/Use/Sequence/MasterSeq6/shots/shot0050/shot0050_01_Auto2.uasset'
+[2023.05.22-09.34.29:968][641]LogFileHelpers: Auto-saving content packages took 0.038
